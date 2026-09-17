@@ -7,6 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-oliva-fogaça-703904258/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joao-pedro-portfolio-black.vercel.app)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaopedro_oliva@outlook.com)
 [![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2EA44F?style=for-the-badge&logo=googlejobs&logoColor=white)](https://www.linkedin.com/in/joão-pedro-oliva-fogaça-703904258/)
 
