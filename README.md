@@ -36,6 +36,13 @@ Hoje meu foco é **desenvolvimento backend** — construindo APIs REST, integra�
 
 ## 💼 Projetos em Destaque
 
+### 💸 [FinTrack](https://github.com/jpolivxdev/fintrack)
+[🌐 Demo ao vivo](https://fintrack-flax-two.vercel.app) · [📘 API (Swagger)](https://fintrack-api-qgr2.onrender.com/api/docs)
+
+Controle financeiro pessoal (ou a dois), **mobile-first e instalável como PWA**: contas e cartões, compras parceladas, orçamentos, metas, investimentos comparados ao CDI/IPCA e agenda compartilhada. API REST com **autenticação JWT (refresh token com rotação)**, **mais de 40 testes automatizados de segurança**, CI com CodeQL e **testes de carga com k6**.
+
+`NestJS` `Prisma` `PostgreSQL` `React` `TypeScript` `TailwindCSS` `Docker`
+
 ### 🧠 [OpenMind](https://github.com/jpolivxdev/openmindfrontback)
 Plataforma de apoio psicológico universitário — conecta pacientes a psicólogos estagiários supervisionados. **MVP em produção**, desenvolvido em equipe com metodologia Scrum, e com **artigo científico publicado em formato IEEE**.
 
@@ -61,7 +68,7 @@ API REST para gestão de chamados técnicos com diferentes níveis de acesso (Ad
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,js,angular,react,html,css,postgres,mongodb,supabase,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,ts,js,angular,react,vite,tailwind,html,css,postgres,prisma,mongodb,supabase,git,github,docker,postman" />
 </p>
 
 <br/>
