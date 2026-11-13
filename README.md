@@ -39,8 +39,8 @@ Controle financeiro pessoal (ou a dois), mobile-first e instalável como PWA: co
 🌐 [Demo ao vivo](https://fintrack-flax-two.vercel.app) · 📘 [API (Swagger)](https://fintrack-api-qgr2.onrender.com/api/docs)
 *(a API roda em plano gratuito: a primeira requisição pode levar cerca de 50 segundos)*
 
-### 🧩 [Nexo CRM](https://github.com/jpolivxdev/nexo-crm) · NestJS · React · PostgreSQL · *em desenvolvimento*
-Base de um SaaS para pequenos negócios: atendimento e agendamento pelo WhatsApp com CRM simples.
+### 🧩 [Nexo](https://github.com/jpolivxdev/nexo-crm) · NestJS · React · PostgreSQL · *em desenvolvimento*
+SaaS para pequenos negócios com o **CRM como núcleo** e atendimento e agendamento pelo WhatsApp. A IA para organizar o CRM está prevista para o plano premium (ainda não implementada).
 
 - Monorepo com API/worker (NestJS), painel (React + Vite) e regras de negócio isoladas em um pacote próprio
 - **Multi-tenant com Row Level Security** no PostgreSQL e fila de mensagens com pg-boss
